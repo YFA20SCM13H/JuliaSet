@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\david\downloads\opencl01\main.cpp(114): warning C4305: 'argument': truncation from 'double' to 'const std::complex<float>::_Ty'
+c:\users\david\downloads\opencl01\main.cpp(173): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+  opencl2.vcxproj -> C:\Users\david\Downloads\OpenCL01\Debug\opencl2.exe

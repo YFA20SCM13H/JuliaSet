@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\david\downloads\parrallel assignment\the codes\julia set parrallel\julia set\main.cpp(39): warning C4305: 'argument': truncation from 'double' to 'const std::complex<float>::_Ty'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  Julia Set.vcxproj -> C:\Users\david\Downloads\Parrallel Assignment\The Codes\Julia Set Parrallel\Debug\Julia Set.exe
